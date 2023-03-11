@@ -21,9 +21,11 @@
 
 ## Deploying
 
-### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Deploy on Heroku :-
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/Jayanth14072003/Leech-Bot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<br>
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
